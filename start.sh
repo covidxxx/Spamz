@@ -36,7 +36,7 @@ clear
 mainmenu() {
     echo -e -n "\033[1;36mChoose = ";read pil
     if [ $pil == "1" ];then
-    git clone https://github.com/Mister-AM/bom_spam
+    git clone https://github.com/covidxxx/smsz
     cd bom_spam
     python bom.py
     echo "[√] SpamSMS DONE"
